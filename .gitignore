@@ -27,5 +27,5 @@ TestResults.xml
 venv/
 __pycache__/
 *.xlsx
-alert_history.json
+# alert_history.json
 >>>>>>> 7df95fe (feat: initial commit for MetricWatcher AI pipeline)
