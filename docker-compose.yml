@@ -1,0 +1,9 @@
+services:
+  metricmind:
+    build: .
+    container_name: metricmind_app
+    env_file:
+      - .env
+    volumes:
+      # Sync local audit log with container so history persists
+      - ./alert_history.json:/app/alert_history.json

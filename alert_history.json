@@ -5,5 +5,12 @@
         "anomalies_count": 2,
         "recipient": "ravvi.lmao.bun@gmail.com",
         "status": "SENT"
+    },
+    {
+        "timestamp": "2026-08-23T08:19:48.460917",
+        "report_date": "2026-08-18",
+        "anomalies_count": 2,
+        "recipient": "ravvi.lmao.bun@gmail.com",
+        "status": "SENT"
     }
 ]
